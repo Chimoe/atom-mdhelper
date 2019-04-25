@@ -1,14 +1,14 @@
 {
   "name": "atom-mdhelper",
   "main": "./lib/atom-mdhelper",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "atom-mdhelper:toggle"
   },
-  "repository": "https://github.com/atom/atom-mdhelper",
+  "repository": "https://github.com/Chimoe/atom-mdhelper",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
