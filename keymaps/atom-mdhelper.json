@@ -1,5 +1,7 @@
 {
   "atom-workspace": {
-    "ctrl-shift-1": "atom-mdhelper:toggle"
+    "ctrl-shift-`": "atom-mdhelper:toggle",
+    "ctrl-shift-t": "atom-mdhelper:table",
+    "ctrl-shift-1": "atom-mdhelper:link"
   }
 }
